@@ -1,72 +1,84 @@
-
-<footer class="site-footer" style="margin-bottom: -5px !important; padding-bottom: -5px !important; margin-top: -5px !important; padding-top: -5px !important;">
+<footer>
+    <div class="footer" id="footer">
         <div class="container">
-        <div class="row">
-    	<div class="col-md-3">
-    	<h4>INFORMATION</h4>
-    	<br>
-    	<address>
-    		About Us<br>
-    		Delivery Information<br>
-    		Privacy Policy<br>
-    		Terms and Conditions
+            <div class="row">
+                <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                    <h3> Lorem Ipsum </h3>
+                    <ul>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                    <h3> Lorem Ipsum </h3>
+                    <ul>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                    <h3> Lorem Ipsum </h3>
+                    <ul>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                    <h3> Lorem Ipsum </h3>
+                    <ul>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                        <li> <a href="#"> Lorem Ipsum </a> </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3  col-md-3 col-sm-6 col-xs-12 ">
+                    <h3> Lorem Ipsum </h3>
+                    <ul>
+                        <li>
+                            <div class="input-append newsletter-box text-center">
+                                <input type="text" class="full text-center" placeholder="Email ">
+                                <button class="btn  bg-gray" type="button"> Lorem ipsum <i class="fa fa-long-arrow-right"> </i> </button>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul class="social">
+                        <li> <a href="#"> <i class=" fa fa-facebook">   </i> </a> </li>
+                        <li> <a href="#"> <i class="fa fa-twitter">   </i> </a> </li>
+                        <li> <a href="#"> <i class="fa fa-google-plus">   </i> </a> </li>
+                        <li> <a href="#"> <i class="fa fa-pinterest">   </i> </a> </li>
+                        <li> <a href="#"> <i class="fa fa-youtube">   </i> </a> </li>
+                    </ul>
+                </div>
+            </div>
+            <!--/.row--> 
+        </div>
+        <!--/.container--> 
+    </div>
+    <!--/.footer-->
     
-    	</address>
-    	</div>
-    	
-    	<div class="col-md-3">
-    	<h4>MY ACCOUNT</h4>
-    	<br>
-    	<address>
-    		My orders<br>
-    		My Personal Info<br>
-    		My Addresses<br>
-    		My Merchandise Returns
-    		
-    	</address>
-    	</div>
-    	
-    	<div class="col-md-3">
-    	<h4>SERVICE</h4>
-    	<br>
-    	<address>
-    		Returns<br>
-    		Site Map<br>
-    		Affiliates<br>
-    		Specials
-    	</address>
-    	</div>
-    	
-    	<div class="col-md-3">
-    	<h4>CONTACT US</h4>
-    	<br>
-    	<address>
-    	    WrightWood
-    		#972 madhapur,
-    		Hyderabad,
-    		Telangana-
-    		81,<br>
-    		Email: Info@Demolink.Com<br>
-    		Tel: 1(234) 567-9842
-    	</address>
-    	</div>
-    	</div>
-    	<div class="bottom-footer">
-    	<div class="col-md-5">@ Copyright WrightWood 2016.</div>
-    	<div class="col-md-7">
-    		<ul class="footer-nav">
-    			<li><i class="fa fa-instagram fa-2x" aria-hidden="true"></i><a href="https://www.instagram.com/accounts/login/"> Instagram</a></li>
-    			<li><i class="fa fa-envelope fa-2x" aria-hidden="true" style="color: white"></i><a href="https://accounts.google.com"> Gmail</a></li>
-    			<li><i class="fa fa-facebook-official fa-2x" aria-hidden="true" style="color: #3b5998"></i><a href="https://www.facebook.com"> Facebook</a></li>
-    			<li ><span class="fa-stack fa-lg ">
-  <i class="fa fa-square-o fa-stack-2x"></i>
-  <i class="fa fa-twitter fa-stack-1x"></i>
-</span><a href="https://twitter.com/login">Twitter</a></li>
-    		</ul>
-    	</div>
-    	</div>
-    	</div>
-    </footer>
-   
+    <div class="footer-bottom">
+        <div class="container">
+            <p class="pull-left"> Copyright © Footer 2014. All right reserved. </p>
+            <div class="pull-right">
+                <ul class="nav nav-pills payments">
+                    <li><i class="fa fa-cc-visa"></i></li>
+                    <li><i class="fa fa-cc-mastercard"></i></li>
+                    <li><i class="fa fa-cc-amex"></i></li>
+                    <li><i class="fa fa-cc-paypal"></i></li>
+                </ul> 
+            </div>
+        </div>
+    </div>
+    <!--/.footer-bottom--> 
+</footer>
 </body>
 </html>
+
+
